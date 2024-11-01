@@ -1,0 +1,33 @@
+/* Skemboo Widget por Fabbian Alvarez*/ 
+ 
+#skemboo-widget ol {
+	list-style:none 
+}
+ 
+#skemboo-widget ol li {
+	border:0px;
+	float:left;
+	overflow:hidden;
+}	
+ 
+#skemboo-widget ol li img { 
+	border:1px solid #CCC;
+	padding:2px;
+}
+
+#skemboo-widget .imagenes_miniatura li img{
+	height: 64px;
+	width: 64px;
+}
+ 
+#skemboo-widget ol li a.titulo_skemboo_widget {
+	line-height:70px;
+	padding:5px;
+	vertical-align:top;
+	white-space:nowrap;
+}
+
+.skemboo_perfil img{
+	vertical-align:middle;
+	width: 20px
+}
